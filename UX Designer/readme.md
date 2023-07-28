@@ -20,5 +20,5 @@ Link: [Projeto Figma](https://www.figma.com/proto/wPrnVgCGfTFvoU2bY0Xo9l/Untitle
 
 ### Objetivo é usar todos os conhecimentos passados através do curso para cria um projeto.
 
-Link: [Projeto Figma]([https://www.figma.com/file/6ACsyvWvnl3MP4yP9iFARO/Untitled?type=design&t=fnI7shz8lNughBya-6](https://www.figma.com/file/6ACsyvWvnl3MP4yP9iFARO/Untitled?type=design&node-id=0%3A1&mode=design&t=GPnBNtScNxK9Tq8A-1)https://www.figma.com/file/6ACsyvWvnl3MP4yP9iFARO/Untitled?type=design&node-id=0%3A1&mode=design&t=GPnBNtScNxK9Tq8A-1)
+Link: [Projeto Figma](https://www.figma.com/file/6ACsyvWvnl3MP4yP9iFARO/Untitled?type=design&node-id=0%3A1&mode=design&t=ixcysY0P1HSpRdaZ-1)
 
